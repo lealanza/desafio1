@@ -1,0 +1,41 @@
+.titulo{
+    justify-self: center;
+    text-decoration: solid;
+    text-transform: inherit;
+    margin: auto;
+    width: 700px;
+    height: 70px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    border-radius: 15px;
+    background-color: lightcyan;
+    box-shadow: 8px 8px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+body>div{
+    display: inline;
+    padding: 20px;
+    background-color: rgb(222, 245, 252);
+    
+}
+
+.cuerpo{
+    display: flex;
+    font-family: "Lucida Console", "Courier New", monospace;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.lista{
+    font-size: 12px;
+}
+.texto{
+    margin-left: 50px;
+    border: 1px solid navy;
+    box-shadow: 7px 7px 5px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
